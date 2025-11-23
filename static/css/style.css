@@ -1,0 +1,15 @@
+GNU nano 8.7                 static/css/style.css                 Modified
+body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI">
+        margin: 0;
+        padding: 0;
+}
+
+header {
+        padding: 1.5rem;
+        border-bottom: 1px solid #ccc;
+}
+
+main {
+        padding: 1.5rem;
+}
